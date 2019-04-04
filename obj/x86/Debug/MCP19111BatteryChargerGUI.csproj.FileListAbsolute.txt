@@ -1,0 +1,31 @@
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.Form1.resources
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.Properties.Resources.resources
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.csproj.GenerateResource.Cache
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.exe
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.pdb
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\bin\Debug\MCP19111BatteryChargerGUI.exe.manifest
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\bin\Debug\MCP19111BatteryChargerGUI.application
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\bin\Debug\MCP19111BatteryChargerGUI.exe
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\bin\Debug\MCP19111BatteryChargerGUI.pdb
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\bin\Debug\PICkitS.dll
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.Form1.resources
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.Properties.Resources.resources
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.csproj.GenerateResource.Cache
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.exe.manifest
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.application
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.exe
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.pdb
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111\obj\x86\Debug\MCP19111BatteryChargerGUI.csprojResolveAssemblyReference.cache
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.csprojResolveAssemblyReference.cache
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.Form1.resources
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.Properties.Resources.resources
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.csproj.GenerateResource.Cache
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.exe
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.pdb
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\bin\Debug\MCP19111BatteryChargerGUI.exe.manifest
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\bin\Debug\MCP19111BatteryChargerGUI.application
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\bin\Debug\MCP19111BatteryChargerGUI.exe
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\bin\Debug\MCP19111BatteryChargerGUI.pdb
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\bin\Debug\PICkitS.dll
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.exe.manifest
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.application

@@ -1,0 +1,36 @@
+C:\Users\c14297\Documents\App Spec Files\Battery Charging Home\MCP19111 Home\Factory Files 1-1-2015\GUI09292014_R3\MCP19111BatteryChargerGUI\bin\Release\MCP19111BatteryChargerGUI.exe.manifest
+C:\Users\c14297\Documents\App Spec Files\Battery Charging Home\MCP19111 Home\Factory Files 1-1-2015\GUI09292014_R3\MCP19111BatteryChargerGUI\bin\Release\MCP19111BatteryChargerGUI.application
+C:\Users\c14297\Documents\App Spec Files\Battery Charging Home\MCP19111 Home\Factory Files 1-1-2015\GUI09292014_R3\MCP19111BatteryChargerGUI\bin\Release\MCP19111BatteryChargerGUI.exe
+C:\Users\c14297\Documents\App Spec Files\Battery Charging Home\MCP19111 Home\Factory Files 1-1-2015\GUI09292014_R3\MCP19111BatteryChargerGUI\bin\Release\MCP19111BatteryChargerGUI.pdb
+C:\Users\c14297\Documents\App Spec Files\Battery Charging Home\MCP19111 Home\Factory Files 1-1-2015\GUI09292014_R3\MCP19111BatteryChargerGUI\obj\x86\Release\MCP19111BatteryChargerGUI.Form1.resources
+C:\Users\c14297\Documents\App Spec Files\Battery Charging Home\MCP19111 Home\Factory Files 1-1-2015\GUI09292014_R3\MCP19111BatteryChargerGUI\obj\x86\Release\MCP19111BatteryChargerGUI.Properties.Resources.resources
+C:\Users\c14297\Documents\App Spec Files\Battery Charging Home\MCP19111 Home\Factory Files 1-1-2015\GUI09292014_R3\MCP19111BatteryChargerGUI\obj\x86\Release\MCP19111BatteryChargerGUI.csproj.GenerateResource.Cache
+C:\Users\c14297\Documents\App Spec Files\Battery Charging Home\MCP19111 Home\Factory Files 1-1-2015\GUI09292014_R3\MCP19111BatteryChargerGUI\obj\x86\Release\MCP19111BatteryChargerGUI.exe.manifest
+C:\Users\c14297\Documents\App Spec Files\Battery Charging Home\MCP19111 Home\Factory Files 1-1-2015\GUI09292014_R3\MCP19111BatteryChargerGUI\obj\x86\Release\MCP19111BatteryChargerGUI.application
+C:\Users\c14297\Documents\App Spec Files\Battery Charging Home\MCP19111 Home\Factory Files 1-1-2015\GUI09292014_R3\MCP19111BatteryChargerGUI\obj\x86\Release\MCP19111BatteryChargerGUI.exe
+C:\Users\c14297\Documents\App Spec Files\Battery Charging Home\MCP19111 Home\Factory Files 1-1-2015\GUI09292014_R3\MCP19111BatteryChargerGUI\obj\x86\Release\MCP19111BatteryChargerGUI.pdb
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.exe
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.pdb
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.Form1.resources
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.Properties.Resources.resources
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.csproj.GenerateResource.Cache
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\bin\Release\MCP19111BatteryChargerGUI.exe.manifest
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\bin\Release\MCP19111BatteryChargerGUI.application
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\bin\Release\MCP19111BatteryChargerGUI.exe
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\bin\Release\MCP19111BatteryChargerGUI.pdb
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.exe.manifest
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.application
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.csprojResolveAssemblyReference.cache
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.exe
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.pdb
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.csprojResolveAssemblyReference.cache
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.Form1.resources
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.Properties.Resources.resources
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.csproj.GenerateResource.Cache
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\bin\Release\MCP19111BatteryChargerGUI.exe.manifest
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\bin\Release\MCP19111BatteryChargerGUI.application
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\bin\Release\MCP19111BatteryChargerGUI.exe
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\bin\Release\MCP19111BatteryChargerGUI.pdb
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\bin\Release\PICkitS.dll
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.exe.manifest
+C:\MPLAB-X_Code\Factory_6_Amp_Reference_Design\Dans\Multi-Chemistry-GUI-MCP19111\obj\x86\Release\MCP19111BatteryChargerGUI.application

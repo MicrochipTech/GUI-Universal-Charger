@@ -1,0 +1,44 @@
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.Form1.resources
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.Properties.Resources.resources
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.GenerateResource.Cache
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.exe
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.pdb
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\bin\Debug\MCP19111BatteryChargerGUI.exe.manifest
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\bin\Debug\MCP19111BatteryChargerGUI.application
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\bin\Debug\MCP19111BatteryChargerGUI.exe
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\bin\Debug\MCP19111BatteryChargerGUI.pdb
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\bin\Debug\PICkitS.dll
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.exe.manifest
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\MCP19111BatteryChargerGUI.application
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\obj\x86\Debug\BatteryChargerGUI-Universal.csprojResolveAssemblyReference.cache
+M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 9-15-17\bin\Debug\MCP2221DLL-M-dotNet4.dll
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.exe.manifest
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.application
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.exe
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.pdb
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\mcp2221_dll_m_dotnetv4_x86.dll
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\PICkitS.dll
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.Form1.resources
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.Properties.Resources.resources
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.GenerateResource.Cache
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.CoreCompileInputs.cache
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.exe.manifest
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.application
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.exe
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.pdb
+D:\Documents\Box Sync\Bryan Smith\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csprojResolveAssemblyReference.cache
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.exe.manifest
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.application
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.exe
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.pdb
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\mcp2221_dll_m_dotnetv4_x86.dll
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\bin\Debug\PICkitS.dll
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csprojResolveAssemblyReference.cache
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.Form1.resources
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.Properties.Resources.resources
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.GenerateResource.Cache
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.CoreCompileInputs.cache
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.exe.manifest
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.application
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.exe
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.pdb
