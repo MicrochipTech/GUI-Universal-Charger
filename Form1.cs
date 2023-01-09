@@ -3486,6 +3486,8 @@ namespace MCP19111BatteryChargerGUI
             #region Send the array over to the part, read, compare, issue a reboot
             Debug.WriteLine(script);
 
+            //I broke this write into two parts.  I did this to introduce a delay between writes of 32 words because that's the most the NVM controller 
+            //on some PIC16s can take without breaking I2C.
             b = Serial_Write((ushort)(Flash_Access | Flash_Config_Offset), 64, ref configuration_data);
 
             if (b == false)

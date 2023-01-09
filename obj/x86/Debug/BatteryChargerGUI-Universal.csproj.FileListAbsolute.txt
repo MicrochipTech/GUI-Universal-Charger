@@ -88,3 +88,18 @@ G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryCha
 G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI.application
 G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI.exe
 G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI.pdb
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\bin\Debug\BatteryChargerGUI.exe.manifest
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\bin\Debug\BatteryChargerGUI.application
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\bin\Debug\BatteryChargerGUI.exe
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\bin\Debug\BatteryChargerGUI.pdb
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\bin\Debug\mcp2221_dll_m_dotnetv4_x86.dll
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\bin\Debug\PICkitS.dll
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\obj\x86\Debug\BatteryChargerGUI-Universal.csprojResolveAssemblyReference.cache
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\obj\x86\Debug\MCP19111BatteryChargerGUI.Form1.resources
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\obj\x86\Debug\BatteryChargerGUI.Properties.Resources.resources
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.GenerateResource.Cache
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.CoreCompileInputs.cache
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\obj\x86\Debug\BatteryChargerGUI.exe.manifest
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\obj\x86\Debug\BatteryChargerGUI.application
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\obj\x86\Debug\BatteryChargerGUI.exe
+G:\Visual Studio Projects\Universal Battery Charger GUI v469\obj\x86\Debug\BatteryChargerGUI.pdb
