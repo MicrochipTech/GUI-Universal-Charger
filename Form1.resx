@@ -117,46 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="labelFlashData.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>False</value>
-  </metadata>
-  <metadata name="labelFlashAddress.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>False</value>
-  </metadata>
-  <metadata name="labelFlashPeakPoke.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>False</value>
-  </metadata>
-  <metadata name="labelSFRData.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>False</value>
-  </metadata>
-  <metadata name="labelSFRAddress.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>False</value>
-  </metadata>
-  <metadata name="labelSFRPeakPoke.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>False</value>
-  </metadata>
   <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>25</value>
-  </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        AAABAAEAICAQAAAAAADoAgAAFgAAACgAAAAgAAAAQAAAAAEABAAAAAAAgAIAAAAAAAAAAAAAAAAAAAAA
-        AAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAAgICAAMDAwAAAAP8AAP8AAAD//wD/AAAA/wD/AP//
-        AAD///8AAAAAAAAAAJmZAAAAAAAAAAAAAAAAmZmZmZmZAAAAAAAAAAAAmZmZmZmZmZkAAAAAAAAACZmZ
-        mZmZmZmZkAAAAAAACZmZmZmZmZmZmZmQAAAAAJmZmZmZmZmZmZmZmQAAAAD/mZmZmZmZmZmZmf/wAAAP
-        //mZmZmf+ZmZmZn/8AAA///5mZmZ//+ZmZmf//8AAP///5mZmf//+ZmZ////AA/////5mZ////mZmf//
-        //AP/////5mf////mZ/////wD/////mZ/////5n/////8Jn////5n/////mZ/////5mZn///mf/////5
-        n/////+ZmZ//+Zn/////mZ/////5mZmZ//mf/////5n/////mZCZmZ+Z//////mf/////5mQmZmZmf//
-        //+Zn/////mZAAmZmZ//////mf////+ZkAAJmZmf////+Zn/////mZAACZmZmf////mZ////+ZkAAACZ
-        mZmf//+ZmZ////mQAAAAmZmZn//5mZmZ//+ZkAAAAAmZmZn/+ZmZmf/5mQAAAAAAmZmZmZmZmZmZmZAA
-        AAAAAJmZmZmZmZmZmZmQAAAAAAAJmZmZmZmZmZmZAAAAAAAAAAmZmZmZmZmZkAAAAAAAAAAAmZmZmZmZ
-        mZAAAAAAAAAAAACZmZmZmZkAAAAAAAAAAAAAAACZmQAAAAAAAAD//D///8AD//8AAP/+AAB/+AAAH/AA
-        AA/wAAAH4AAAB8AAAAPAAAADgAAAAYAAAAGAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAADgAAAB4AA
-        AAeAAAAPwAAAH8AAAB/gAAA/8AAAf/AAAH/4AAD//gAB//8AAf//wAP///w//w==
-</value>
-  </data>
 </root>

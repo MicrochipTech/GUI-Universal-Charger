@@ -42,3 +42,49 @@ D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projec
 D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.application
 D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.exe
 D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Multi-Chemistry Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.pdb
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csprojAssemblyReference.cache
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.exe
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.pdb
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.exe.manifest
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.application
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.exe
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.pdb
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\mcp2221_dll_m_dotnetv4_x86.dll
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\PICkitS.dll
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.Form1.resources
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.Properties.Resources.resources
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.GenerateResource.cache
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.exe.manifest
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.application
+C:\Users\Bryan Smith\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.CopyComplete
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.exe.manifest
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.application
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.exe
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\MCP19111BatteryChargerGUI.pdb
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\mcp2221_dll_m_dotnetv4_x86.dll
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\PICkitS.dll
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.Form1.resources
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.Properties.Resources.resources
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.GenerateResource.Cache
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.CoreCompileInputs.cache
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.exe.manifest
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.application
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.exe
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.pdb
+D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csprojResolveAssemblyReference.cache
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\BatteryChargerGUI.exe.manifest
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\BatteryChargerGUI.application
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\BatteryChargerGUI.exe
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\BatteryChargerGUI.pdb
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\mcp2221_dll_m_dotnetv4_x86.dll
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Debug\PICkitS.dll
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csprojResolveAssemblyReference.cache
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\MCP19111BatteryChargerGUI.Form1.resources
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI.Properties.Resources.resources
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.GenerateResource.Cache
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI-Universal.csproj.CoreCompileInputs.cache
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI.exe.manifest
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI.application
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI.exe
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Debug\BatteryChargerGUI.pdb

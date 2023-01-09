@@ -11,3 +11,18 @@ M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DE
 M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 10-30-17\obj\x86\Release\MCP19111BatteryChargerGUI.application
 M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 10-30-17\obj\x86\Release\MCP19111BatteryChargerGUI.exe
 M:\Users\Slurpee\Documents\Box Sync\Bryan Smith\Products\Power Electroncis FG\DEPA\MCP19111\Dan's Stuff\Multi-Chemistry-GUI-MCP19111 - Working copy 10-30-17\obj\x86\Release\MCP19111BatteryChargerGUI.pdb
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Release\mcp2221_dll_m_dotnetv4_x86.dll
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Release\PICkitS.dll
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Release\MCP19111BatteryChargerGUI.Form1.resources
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Release\BatteryChargerGUI-Universal.csproj.GenerateResource.Cache
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Release\BatteryChargerGUI-Universal.csproj.CoreCompileInputs.cache
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Release\BatteryChargerGUI.exe.manifest
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Release\BatteryChargerGUI.application
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Release\BatteryChargerGUI.exe
+G:\Visual Studio Projects\Universal Battery Charger GUI\bin\Release\BatteryChargerGUI.pdb
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Release\BatteryChargerGUI.Properties.Resources.resources
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Release\BatteryChargerGUI.exe.manifest
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Release\BatteryChargerGUI.application
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Release\BatteryChargerGUI.exe
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Release\BatteryChargerGUI.pdb
+G:\Visual Studio Projects\Universal Battery Charger GUI\obj\x86\Release\BatteryChargerGUI-Universal.csprojResolveAssemblyReference.cache

@@ -8,13 +8,13 @@
     <ProjectGuid>{30936053-323A-4261-9991-F89851112C17}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MCP19111BatteryChargerGUI</RootNamespace>
-    <AssemblyName>MCP19111BatteryChargerGUI</AssemblyName>
+    <RootNamespace>BatteryChargerGUI</RootNamespace>
+    <AssemblyName>BatteryChargerGUI</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>D:\GUI09292014_R3\</PublishUrl>
+    <PublishUrl>D:\Documents\OneDrive - Microchip Technology, Inc\Documents\Visual Studio Projects\I2C Buck GUI\publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -24,7 +24,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>31</ApplicationRevision>
+    <ApplicationRevision>32</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -65,9 +65,9 @@
     <SignManifests>false</SignManifests>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="mcp2221_dll_m_dotnetv4_x86, Version=1.0.5994.17193, Culture=neutral, processorArchitecture=x86">
+    <Reference Include="mcp2221_dll_m_dotnetv4_x86, Version=1.0.6654.31519, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>.\mcp2221_dll_m_dotnetv4_x86.dll</HintPath>
+      <HintPath>..\I2C Buck GUI\mcp2221_dll_m_dotnetv4_x86.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -106,6 +106,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="MCP19111BatteryChargerGUI_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
